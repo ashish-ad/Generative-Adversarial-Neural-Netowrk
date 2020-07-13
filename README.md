@@ -12,4 +12,4 @@ This is the link for Post check this out: https://www.linkedin.com/posts/ashish-
 
 This is My Output of hte Project 
 
-https://github.com/ashishad14/GAN-Internship-Project/blob/master/GAN_Output.avi
+[!https://github.com/ashishad14/GAN-Internship-Project/blob/master/GAN_Output.avi]
