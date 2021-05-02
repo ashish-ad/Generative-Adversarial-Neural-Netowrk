@@ -1,7 +1,7 @@
 # GAN-Internship-Project
  **GAN (Generative Adversarial Network)**
 
-*I have posted about my project online*
+*I have a posted about my project online*
 https://medium.com/@ashishad14/gan-generative-adversarial-networks-for-hand-written-digits-a97bc0b389b3
 
 *Posts on linkedIn*
