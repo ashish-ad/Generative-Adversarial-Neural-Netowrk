@@ -14,7 +14,7 @@ This is the output of the project
 
 [Evolving video output in form of images cascaded in frames to make the video](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/GAN_Output.avi)
 
-![First image output](Generative-Adversarial-Neural-Network/Output images/fake_images-0000.jpg)
+![First image output](/Output images/fake_images-0000.jpg)
 ![]()
 ![]()
 ![]()
