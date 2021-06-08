@@ -15,4 +15,47 @@ This is the output of the project
 [Evolving video output in form of images cascaded in frames to make the video](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/GAN_Output.avi)
 
 
-![First Image Output](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0000.png)
+![Real Images Of hand Written Digits](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/real_images.png)
+
+>_This is the original image that is taken form MINST dataset_
+
+
+![First Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0000.png)
+
+![Second Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0001.png)
+
+![Third Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0002.png)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+![Last Six Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0295.png)
+
+![Last Fifth Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0296.png)
+
+![Last Fourth Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0297.png)
+
+![Last Third Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0298.png)
+
+![Last Second Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0299.png)
+
+![Last Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0300.png)
