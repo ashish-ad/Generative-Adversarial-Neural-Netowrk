@@ -21,7 +21,7 @@ This is the output of the project
 
 >These are the images produced from the GAN model from generating a noise to imporving to the image that is required 
 
-PS: __I have provided some images a preview want to see all the images can download and see them
+PS: __I have provided some images a preview want to see all the images can see them in my Output directory at [Output image directory](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/tree/master/Output%20images).
 
 ![First Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0000.png)
 
