@@ -19,6 +19,9 @@ This is the output of the project
 
 >_This is the original image that is taken form MINST dataset_
 
+>These are the images produced from the GAN model from generating a noise to imporving to the image that is required 
+
+PS: __I have provided some images a preview want to see all the images can download and see them
 
 ![First Image](https://github.com/ashish-ad/Generative-Adversarial-Neural-Netowrk/blob/master/Output%20images/fake_images-0000.png)
 
